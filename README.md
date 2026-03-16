@@ -21,7 +21,7 @@ Aplicación web para auditar facturas de Cabot. Permite subir un PDF de factura 
 ### Prerrequisitos
 
 - Node.js ≥ 18
-- Backend corriendo en `http://localhost:8080` (ver repositorio `cabot-back`)
+- Backend corriendo en `http://localhost:8080` (ver repositorio `cabot`)
 
 ### Instalar dependencias
 
